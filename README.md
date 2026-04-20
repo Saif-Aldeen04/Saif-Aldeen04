@@ -1,15 +1,16 @@
-# Hi 👋, I'm Saif Aldeen Wael Alsayed
+<div align="center">
 
-### Passionate Web Penetration Tester & Bug Hunter from Egypt 🇪🇬
+<h1>Hi 👋, I'm Saif Aldeen Wael Alsayed</h1>
+<h3>Passionate Web Penetration Tester & Bug Hunter from Egypt 🇪🇬</h3>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/saifaldeenwael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@CS_Lighthouse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CS Lighthouse"></a>
+  <a href="https://www.youtube.com/@YourChannelLink"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CS Lighthouse"></a>
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x200/0d1117/58a6ff?text=Welcome+to+my+Workspace" alt="Profile Banner" width="600"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=Welcome%20to%20my%20Workspace&fontSize=40&fontColor=ffffff" alt="Profile Banner" width="800"/>
+
+</div>
 
 ## 🚀 About Me
 
