@@ -5,7 +5,7 @@
 
 <br>
 <p>
-  <a href="https://www.linkedin.com/in/saifaldeenwael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/saifaldeenwael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://https://www.youtube.com/@CS_Lighthouse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CS Lighthouse"></a>
 </p>
 
