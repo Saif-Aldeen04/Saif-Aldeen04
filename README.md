@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saifaldeenwael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@YourChannelLink"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CS Lighthouse"></a>
+  <a href="https://www.youtube.com/@CS_Lighthouse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CS Lighthouse"></a>
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 * 🛡️ **Focus Areas:** Deeply engaged in Web Penetration Testing, Network Fundamentals, and Vulnerability Analysis.
 * 🐛 **Bug Bounty Hunter:** Actively hunting and securing assets on **HackerOne, YesWeHack, Intigriti, and Bugcrowd**.
 * 👨‍🏫 **Mentorship & Leadership:** Delivered practical cybersecurity training and soft skills instruction as an Instructor at Helpers AU.
-* 💻 **Tech Stack:** Python (Security Tooling), C#, PHP, JavaScript Node.JS, and SQL.
-* 🛠️ **Systems & Arsenal:** Experienced in Linux Administration, Burp Suite, and actively studying the OWASP Top 10.
+* 💻 **Tech Stack:** Python (Security Tooling), JavaScript Node.JS, and SQL.
+* 🛠️ **Systems & Arsenal:** Experienced in Linux, Burp Suite, and actively studying the OWASP Top 10.
 * 📜 **Certifications:** Introduction to OSINT (Security Blue Team), Network Infrastructure (NTI), and Delivering Quality Work with Agility (IBM).
 * 📫 **Reach me at:** seafeldeenwael@gmail.com.
 
