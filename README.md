@@ -27,7 +27,6 @@
 
 ## ⚡ Projects, Publications & Security Findings
 
-* 🤖 **AI-Assisted Context-Aware Web Security Validation Platform:** Developed an advanced graduation project aimed at bridging the gap between automated vulnerability scanning and manual penetration testing.
 * 🔐 **Passwordy (CLI Password Manager):** Designed a lightweight Linux tool utilizing encryption and clipboard integration to securely manage and protect sensitive user data.
 * 📝 **Technical Writing:** Published *"Easy Way To Get Your First Vulnerability"* on Medium, detailing practical bug hunting experiences and methodologies.
 * 🐞 **Vulnerability Research:** Discovered and analyzed a Critical SQL Injection vulnerability affecting database security.
