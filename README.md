@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-* 🎓 **Education:** Currently studying Computer Science at Assiut University (Expected Graduation: 2027) with a 3.11 GPA.
+* 🎓 **Education:** Currently studying Computer Science at Assiut University (Expected Graduation: 2027) with a 3.16 GPA.
 * 🛡️ **Focus Areas:** Laser-focused on Web Penetration Testing, OSINT, Network Fundamentals, and Vulnerability Analysis.
 * 🐛 **Bug Bounty Hunter:** Actively hunting and securing assets on **HackerOne, YesWeHack, Intigriti, and Bugcrowd**.
 * 👨‍🏫 **Mentorship & Leadership:** Delivered practical cybersecurity training and soft skills instruction as an Instructor at Helpers AU.
